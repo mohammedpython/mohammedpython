@@ -1,5 +1,7 @@
 # 💫 About Me:
-Working on Artificial Intelligence application and scripts to use them with electrical and control systems projects 
+Working on Artificial Intelligence application and scripts to use them with electrical and control systems projects.
+
+My passion for programming stems from my desire to create things that people can use every day without having to worry about whether or not they will work properly or if there will be problems down the road due to bugs that were not fixed before release (or worse yet: never fixed at all).
 
 
 ## 🌐 Socials:
